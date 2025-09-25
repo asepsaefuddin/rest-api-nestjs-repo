@@ -1,0 +1,62 @@
+[
+  {
+    "judul": "Attack on Titan",
+    "rating": 9.1,
+    "studio": "Wit Studio",
+    "gambar": "https://image.pollinations.ai/prompt/Attack%20on%20Titan?width=1024&height=768&nologo=true"
+  },
+  {
+    "judul": "Fullmetal Alchemist: Brotherhood",
+    "rating": 9.0,
+    "studio": "Bones",
+    "gambar": "https://image.pollinations.ai/prompt/Fullmetal%20Alchemist%20Brotherhood?width=1024&height=768&nologo=true"
+  },
+  {
+    "judul": "Death Note",
+    "rating": 8.7,
+    "studio": "Madhouse",
+    "gambar": "https://image.pollinations.ai/prompt/Death%20Note?width=1024&height=768&nologo=true"
+  },
+  {
+    "judul": "Naruto: Shippuden",
+    "rating": 8.3,
+    "studio": "Pierrot",
+    "gambar": "https://image.pollinations.ai/prompt/Naruto%20Shippuden?width=1024&height=768&nologo=true"
+  },
+  {
+    "judul": "One Piece",
+    "rating": 8.9,
+    "studio": "Toei Animation",
+    "gambar": "https://image.pollinations.ai/prompt/One%20Piece?width=1024&height=768&nologo=true"
+  },
+  {
+    "judul": "Demon Slayer: Kimetsu no Yaiba",
+    "rating": 8.8,
+    "studio": "ufotable",
+    "gambar": "https://image.pollinations.ai/prompt/Demon%20Slayer%20Kimetsu%20no%20Yaiba?width=1024&height=768&nologo=true"
+  },
+  {
+    "judul": "Jujutsu Kaisen",
+    "rating": 8.6,
+    "studio": "MAPPA",
+    "gambar": "https://image.pollinations.ai/prompt/Jujutsu%20Kaisen?width=1024&height=768&nologo=true"
+  },
+  {
+    "judul": "My Hero Academia",
+    "rating": 8.0,
+    "studio": "Bones",
+    "gambar": "https://image.pollinations.ai/prompt/My%20Hero%20Academia?width=1024&height=768&nologo=true"
+  },
+  {
+    "judul": "Hunter x Hunter",
+    "rating": 9.0,
+    "studio": "Madhouse",
+    "gambar": "https://image.pollinations.ai/prompt/Hunter%20x%20Hunter?width=1024&height=768&nologo=true"
+  },
+  {
+    "judul": "Chainsaw Man",
+    "rating": 8.5,
+    "studio": "MAPPA",
+    "gambar": "https://image.pollinations.ai/prompt/Chainsaw%20Man?width=1024&height=768&nologo=true"
+  }
+]
